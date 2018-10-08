@@ -25,7 +25,7 @@
     <!-- js -->
 
     <js-module src="www/SimpleTimer.js" name="SimpleTimer">
-        <clobbers target="SimpleTimer" />
+        <clobbers target="window.plugins.simpleTimer" />
     </js-module>
 
 

@@ -22,4 +22,4 @@ var SimpleTimer = {
     }
 };
 
-window.SimpleTimer = SimpleTimer;
+module.exports = SimpleTimer;
